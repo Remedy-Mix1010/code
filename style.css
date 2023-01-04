@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+button{
+    background-color: #254270;
+    color: white;
+    border-radius: 50px;
+    border-color: #14243d;
+}
+canvas{
+    margin-top: 200px;
+    background-color: #edc6c5;
+    border-radius: 30px;
+    border-color: #edc6c5;
+
+}
